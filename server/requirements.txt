@@ -1,0 +1,4 @@
+-e dxcam
+opencv-python
+screeninfo
+numpy
